@@ -1,0 +1,1 @@
+# Статус сборки[![Build status](https://ci.appveyor.com/api/projects/status/t77dtr6s6nham7dh/branch/main?svg=true)](https://ci.appveyor.com/project/Anastasiia86/api-ci/branch/main)
